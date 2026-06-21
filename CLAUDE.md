@@ -1,5 +1,7 @@
 # LinkedIn Positioning — CLAUDE.md
 
+> ⚠️ **INSTRUCCIÓN PARA AGENTES**: Antes de cualquier tarea, leer y cargar el contenido completo de `AGENTS.md`. Toda la inteligencia operativa del sistema (agentes, roles, flujos, prompts) está definida allí.
+
 ## Propósito de esta carpeta
 
 Gestión integral del posicionamiento profesional de **Carlos Hermelo** en LinkedIn, enfocado en inteligencia artificial generativa.
